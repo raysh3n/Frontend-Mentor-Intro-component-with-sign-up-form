@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here]()
-- Live Site URL: [here]()
+- Solution URL: [here](https://www.frontendmentor.io/solutions/responsive-intro-component-with-sign-up-form-eQLknJRj4E)
+- Live Site URL: [here](https://fem-intro-component-with-form-raysh3n.netlify.app/)
 
 ## My process
 
